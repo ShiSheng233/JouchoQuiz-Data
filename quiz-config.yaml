@@ -1,0 +1,13 @@
+quiz:
+  - id: 0
+    difficulty: 0
+    tags: ["立绘"]
+    source: "https://example.com/quiz0.md"
+    correct: 2
+    footnote: "测试测试测试"
+  - id: 1
+    difficulty: 1
+    tags: ["logo"]
+    source: "https://example.com/quiz1.md" 
+    correct: 3
+    footnote: "测试测试测试"
