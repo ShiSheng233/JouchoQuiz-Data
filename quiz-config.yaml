@@ -1,13 +1,15 @@
 quiz:
   - id: 0
     difficulty: 0
+    type: "single-select"
     tags: ["立绘"]
     source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz0.md"
     correct: 3
-    footnote: "测试测试测试"
+    footnote: "测试测试测试000"
   - id: 1
     difficulty: 1
+    type: "mutiple-select"
     tags: ["logo"]
-    source: "https://example.com/quiz1.md" 
-    correct: 3
-    footnote: "测试测试测试"
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz1.md" 
+    correct: [1, 4]
+    footnote: "测试测试测试111"
