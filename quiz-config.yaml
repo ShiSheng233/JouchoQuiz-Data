@@ -2,7 +2,7 @@ quiz:
   - id: 0
     difficulty: 0
     tags: ["立绘"]
-    source: "https://github.com/ShiSheng233/JouchoQuiz-Data/blob/master/data/quiz0.md"
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz0.md"
     correct: 3
     footnote: "测试测试测试"
   - id: 1
