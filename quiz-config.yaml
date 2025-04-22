@@ -2,8 +2,8 @@ quiz:
   - id: 0
     difficulty: 0
     tags: ["立绘"]
-    source: "https://example.com/quiz0.md"
-    correct: 2
+    source: "https://github.com/ShiSheng233/JouchoQuiz-Data/blob/master/data/quiz0.md"
+    correct: 3
     footnote: "测试测试测试"
   - id: 1
     difficulty: 1
