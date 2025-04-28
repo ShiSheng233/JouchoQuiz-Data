@@ -6,13 +6,13 @@ quiz:
     source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz0.md"
     correct: 3
     footnote: "测试测试测试000"
-  - id: 1
-    difficulty: 1
-    type: "multiple-select"
-    tags: ["logo"]
-    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz1.md" 
-    correct: [1, 4]
-    footnote: "测试测试测试111"
+  #- id: 1
+  #  difficulty: 1
+  #  type: "multiple-select"
+  #  tags: ["logo"]
+  #  source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz1.md" 
+  #  correct: [1, 4]
+  #  footnote: "测试测试测试111"
   - id: 2
     difficulty: 3
     type: "single-select"
@@ -45,6 +45,6 @@ quiz:
     difficulty: 3
     type: "single-select"
     tags: ["衍生"]
-    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/music/3.md" 
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/other/1.md" 
     correct: 3
     footnote: ""
