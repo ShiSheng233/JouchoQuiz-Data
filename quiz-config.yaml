@@ -13,3 +13,38 @@ quiz:
     source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz1.md" 
     correct: [1, 4]
     footnote: "测试测试测试111"
+  - id: 2
+    difficulty: 3
+    type: "single-select"
+    tags: ["曲师"]
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/producer/1.md" 
+    correct: 3
+    footnote: ""
+  - id: 3
+    difficulty: 3
+    type: "single-select"
+    tags: ["歌曲"]
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/music/1.md" 
+    correct: 3
+    footnote: ""
+  - id: 4
+    difficulty: 2
+    type: "single-select"
+    tags: ["歌曲"]
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/music/2.md" 
+    correct: 3
+    footnote: ""
+  - id: 5
+    difficulty: 3
+    type: "single-select"
+    tags: ["歌曲"]
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/music/3.md" 
+    correct: 3
+    footnote: ""
+  - id: 6
+    difficulty: 3
+    type: "single-select"
+    tags: ["衍生"]
+    source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/music/3.md" 
+    correct: 3
+    footnote: ""
