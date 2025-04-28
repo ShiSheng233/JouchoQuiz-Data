@@ -8,7 +8,7 @@ quiz:
     footnote: "测试测试测试000"
   - id: 1
     difficulty: 1
-    type: "mutiple-select"
+    type: "multiple-select"
     tags: ["logo"]
     source: "https://raw.githubusercontent.com/ShiSheng233/JouchoQuiz-Data/refs/heads/master/data/quiz1.md" 
     correct: [1, 4]
